@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: Rubic;
+  src: url(./assets/fonts/Rubik-Regular.ttf);
+}
+body {
+  font-family: Rubic;
+}
